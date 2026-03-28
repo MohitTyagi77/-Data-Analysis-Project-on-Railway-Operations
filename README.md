@@ -1,2 +1,3 @@
-# -Data-Analysis-Project-on-Railway-Operations
-Analyzed train schedules and station utilization for optimization.– Built a predictive model for train delays, improving forecasting accuracy by 15%
+Data Analysis Project on Railway Operations | Python, Pandas, Jupyter Notebook
+Analyzed railway schedule data to identify station utilization and day-wise service patterns.
+Performed data cleaning, feature engineering, aggregation, and visualization to generate actionable insights and improve operational understanding.
